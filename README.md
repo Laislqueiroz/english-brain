@@ -73,7 +73,7 @@ A diretriz configurada no NotebookLM para guiar o assistente foi:
 
 ## 🔗 Link do Notebook Compartilhado
 
-* 🦾 **Acesse o NotebookLM compartilhado:** [Link para o seu NotebookLM]([INSIRA_SEU_LINK_AQUI](https://github.com/Laislqueiroz/english-brain))
+* 🦾 **Acesse o NotebookLM compartilhado:** [Link para o seu NotebookLM]([[INSIRA_SEU_LINK_AQUI](https://notebook.google.com/notebook/9f50c545-8b79-42ea-95e3-4a856876dfcb/preview)]([https://github.com/Laislqueiroz/english-brain](https://notebook.google.com/notebook/9f50c545-8b79-42ea-95e3-4a856876dfcb/preview)))
 
 ---
 
