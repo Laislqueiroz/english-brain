@@ -66,14 +66,14 @@ A diretriz configurada no NotebookLM para guiar o assistente foi:
 
 ---
 
-### ❓ Pergunta 3: Quais expressões idiomáticas sobre gestão de tempo e tomada de decisão aparecem no material didático e qual o contexto ideal de uso?** 
+### 👩🏼‍🎓 Pergunta 3: Quais expressões idiomáticas sobre gestão de tempo e tomada de decisão aparecem no material didático e qual o contexto ideal de uso?** 
 * **Evidência:** *(Veja a captura de tela em `assets/resp_question3_1.JPG`, `assets/resp_question3_2.JPG`, `assets/resp_question3_3.JPG`, `assets/resp_question3_4.JPG`)*.
 
 ---
 
 ## 🔗 Link do Notebook Compartilhado
 
-* 🔗 **Acesse o NotebookLM compartilhado:** [Link para o seu NotebookLM]([INSIRA_SEU_LINK_AQUI](https://github.com/Laislqueiroz/english-brain))
+* 🦾 **Acesse o NotebookLM compartilhado:** [Link para o seu NotebookLM]([INSIRA_SEU_LINK_AQUI](https://github.com/Laislqueiroz/english-brain))
 
 ---
 
@@ -81,27 +81,27 @@ A diretriz configurada no NotebookLM para guiar o assistente foi:
 
 Todos os materiais gerados e exportados estão disponíveis na estrutura deste repositório:
 
-* 📊 **Mapa Mental:** [`materials/NotebookLM_Mind_Map.png`](.materials/NotebookLM_Mind_Map.png)
+* ⛓️ **Mapa Mental:** [`materials/NotebookLM_Mind_Map.png`](./materials/NotebookLM_Mind_Map.png)
   
 * **Evidência:** *(Veja a captura de tela em `fontes/Fontes_Mapa.JPG`)*.
   
   ----------------------------
-* 📄 **Guia de Estudos / Resumo:** [`materials/plano-estudos-escrita-corporativa-v2.pdf`](.materials/plano-estudos-escrita-corporativa-v2.pdf)
+* 🧘🏼‍♀️ **Guia de Estudos / Resumo:** [`materials/plano-estudos-escrita-corporativa-v2.pdf`](./materials/plano-estudos-escrita-corporativa-v2.pdf)
   
   * **Evidência:** *(Veja a captura de tela em `fontes/Fontes_Guia.JPG`)*.
     
   ----------------------------
     
-* 🖥️ **Apresentação em Slides:** [`materials/O_Ecossistema_do_Inglês.pptx`](.materials/O_Ecossistema_do_Inglês.pptx)
+* 🎠 **Apresentação em Slides:** [`materials/O_Ecossistema_do_Inglês.pptx`](./materials/O_Ecossistema_do_Inglês.pptx)
 
    * **Evidência:** *(Veja a captura de tela em `fontes/Fontes_Slide.JPG`)*.
 
     ----------------------------
   
-* 🎙️ **Resumo em Áudio:** [`materials/How_100_Words_Power_Half_Of_English.m4a`](.materials/How_100_Words_Power_Half_Of_English.m4a)
+* 💽 **Resumo em Áudio:** [`materials/How_100_Words_Power_Half_Of_English.m4a`](./materials/How_100_Words_Power_Half_Of_English.m4a)
      * **Evidência:** *(Veja a captura de tela em `fontes/Fontes_Audio.JPG`)*.
 
     ----------------------------
 
   
-* 📸 **Evidências do Chat:** Pasta [`assets/`](./assets/)
+* 🕵🏼‍♀️ **Evidências do Chat:** Pasta [`assets/`](./assets/)
